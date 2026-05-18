@@ -155,8 +155,8 @@ During installation, tick **"Add Python to PATH"** before clicking Install Now.
 
 **Option B — Clone with Git:**
 ```bash
-git clone https://github.com/TanyaOnTheWeb/agri-data-atlas-india.git
-cd agri-data-atlas-india
+git clone https://github.com/TanyaOnTheWeb/agri_data_atlas.git
+cd agri_data_atlas
 ```
 
 ---
@@ -214,7 +214,7 @@ jupyter notebook
 ```
 
 Browser opens automatically.
-Click `agri_atlas_analysis.ipynb` to open the notebook.
+Click `agri_atlas_.ipynb` to open the notebook.
 
 ---
 
