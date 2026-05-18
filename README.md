@@ -104,19 +104,26 @@ The dashboard features:
 ## 📁 Project Structure
 
 ```
-agri-data-atlas-india/
+## 📁 Project Structure
+
+```text
+agri_data_atlas/
 │
-├── 📓 agri_atlas_analysis.ipynb     # Main Jupyter notebook — all code + outputs
+├── 📂 dashboards/
+│   ├── chart_rice_yield_by_state.html
+│   ├── chart_scatter_efficiency.html
+│   ├── chart_yield_trend.html
+│   └── compare_Durg_vs_Ludhiana.html
 │
-├── 🗺️  india_crop_map.html           # Interactive India choropleth map
-├── 📊 chart_rice_yield_by_state.html # State-level rice yield bar chart
-├── 📈 chart_yield_trend.html         # National yield trend 2013–2017
-├── 🔵 chart_scatter_efficiency.html  # District efficiency scatter plot
-├── ⚖️  compare_Durg_vs_Ludhiana.html  # Sample district comparison
+├── 📂 screenshots/
+│   ├── Average_rice_yield.png
+│   ├── District_efficiency.png
+│   ├── agri_data_atlas.png
+│   └── district_comparison.png
 │
-├── 🖼️  map_screenshot.png            # Dashboard preview image
+├── 📓 agri_atlas.ipynb
 │
-└── 📄 README.md                      # Project documentation
+└── 📄 README.md
 ```
 
 ---
