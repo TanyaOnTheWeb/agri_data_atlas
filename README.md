@@ -221,7 +221,7 @@ jupyter notebook
 ```
 
 Browser opens automatically.
-Click `agri_atlas_.ipynb` to open the notebook.
+Click `agri_atlas.ipynb` to open the notebook.
 
 ---
 
