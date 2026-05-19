@@ -267,8 +267,8 @@ No Python or internet connection needed to view the HTML outputs.
 > Interactive choropleth map of India — districts coloured by average crop yield.
 > Green = high yield | Yellow = medium | Grey = no data available
 
-*<img width="1572" height="770" alt="Screenshot 2026-05-18 153627" src="https://github.com/user-attachments/assets/41ad6bea-28e1-47e9-b5a4-8daed32abec9" />
-*
+<img width="1896" height="901" alt="image" src="https://github.com/user-attachments/assets/2d295843-a7c4-458c-9685-cc5169a22c57" />
+
 
 ---
 
